@@ -5,7 +5,7 @@ VCNotiはVCの入退を通知するDiscordBotです
 
 ※JS初心者が作ったのでくそコードです。動くので許してください
 
-#　botの構築
+# botの構築
 
 DiscordDeveloperPortalに登録し、botを作成、トークンを取得してください。(方法は割愛します。調べてください)
 
