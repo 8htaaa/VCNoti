@@ -14,8 +14,11 @@ DiscordDeveloperPortalに登録し、botを作成、トークンを取得して�
 2.VSCodeとかで開いて以下を実行してください
 
 npm init -y
+
 npm install discord.js
+
 npm install keyv
+
 npm install @keyv/sqlite
 
 3.config.jsonにトークンを入力してください。
